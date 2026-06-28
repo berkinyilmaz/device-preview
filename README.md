@@ -58,3 +58,4 @@ Everything runs **locally in your browser**. The website you preview is fetched 
 
 ## About The Build Log
 This is **Part 1** of *The Build Log* series — small, focused web tools shipped one at a time.
+# device-preview
