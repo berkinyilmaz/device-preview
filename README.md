@@ -4,7 +4,7 @@ See how any website looks across phone, tablet, and desktop — without opening 
 ---
 
 ## Live Demo
-_Coming soon_
+https://device-preview-nine.vercel.app/
 
 ---
 
